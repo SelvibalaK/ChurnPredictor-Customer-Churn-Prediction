@@ -22,4 +22,4 @@ Explore the ChurnPredictor repository to access code, documentation, and dataset
 - **spyder_projects:** Spyder IDE project files and analysis scripts.
 
 ### Contributors:
-SelvibalaK
+Selvibala K
