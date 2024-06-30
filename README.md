@@ -20,6 +20,3 @@ Explore the ChurnPredictor repository to access code, documentation, and dataset
 - **scripts:** Python scripts for data preprocessing and model evaluation.
 - **models:** Serialized model files for deployment.
 - **spyder_projects:** Spyder IDE project files and analysis scripts.
-
-### Contributors:
-Selvibala K
